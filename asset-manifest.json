@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculadora-react-learn-3/static/css/main.4c4fb9ca.css",
+    "main.js": "/calculadora-react-learn-3/static/js/main.0a32e9ec.js",
+    "index.html": "/calculadora-react-learn-3/index.html",
+    "main.4c4fb9ca.css.map": "/calculadora-react-learn-3/static/css/main.4c4fb9ca.css.map",
+    "main.0a32e9ec.js.map": "/calculadora-react-learn-3/static/js/main.0a32e9ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c4fb9ca.css",
+    "static/js/main.0a32e9ec.js"
+  ]
+}
